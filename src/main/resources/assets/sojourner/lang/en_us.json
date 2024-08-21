@@ -1,0 +1,15 @@
+{
+  "item.sojourner.raw_bauxite": "Raw Bauxite",
+  "item.sojourner.raw_aluminum": "Raw Aluminum",
+  "item.sojourner.aluminum_ingot": "Aluminum Ingot",
+  "item.sojourner.aluminum_plate": "Aluminum Plate",
+  "item.sojourner.steel_rod": "Steel Rod",
+  "item.sojourner.steel_plate": "Steel Plate",
+  "item.sojourner.refined_silicon": "Refined Silicon",
+  "item.sojourner.sojourner_guide": "Sojourner Guide",
+
+  "block.sojourner.bauxite_ore": "Bauxite Ore",
+  "block.sojourner.blueprint_inscriber": "Blueprint Inscriber",
+
+  "itemGroup.sojourner": "Sojourner"
+}

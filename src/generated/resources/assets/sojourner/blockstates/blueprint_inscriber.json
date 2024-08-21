@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sojourner:block/blueprint_inscriber"
+    }
+  }
+}
