@@ -1,0 +1,8 @@
+// 1.20.4	2024-08-22T13:47:08.3031583	Block States: sojourner
+7b212dd435c15b6783bb6cd74237285980d7898a assets/sojourner/blockstates/bauxite_ore.json
+501be4bef9e0b83c6571ea8638bb1173fae0365a assets/sojourner/blockstates/blueprint_inscriber.json
+e152bdebad2200ac48d1107c969dee8705436124 assets/sojourner/blockstates/deepslate_bauxite_ore.json
+940c54b3c935d77de4d26b7ac657bec0cce36fb0 assets/sojourner/models/block/bauxite_ore.json
+5ab75029724ad4a55643c0bae5fee4264b19a18c assets/sojourner/models/block/deepslate_bauxite_ore.json
+2b120d2879de5122007b34ef0e009fc8b4ba212c assets/sojourner/models/item/bauxite_ore.json
+85bd2fa54f7fea7bf01675fb441b4939e88ff1a9 assets/sojourner/models/item/deepslate_bauxite_ore.json

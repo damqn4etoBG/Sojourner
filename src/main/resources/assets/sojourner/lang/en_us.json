@@ -7,9 +7,18 @@
   "item.sojourner.steel_plate": "Steel Plate",
   "item.sojourner.refined_silicon": "Refined Silicon",
   "item.sojourner.sojourner_guide": "Sojourner Guide",
+  "item.sojourner.blank_blueprint": "Blank Blueprint",
+  "item.sojourner.rod_blueprint": "§eInscribed Blueprint",
+  "item.sojourner.plate_blueprint": "§eInscribed Blueprint",
 
   "block.sojourner.bauxite_ore": "Bauxite Ore",
+  "block.sojourner.deepslate_bauxite_ore": "Deepslate Bauxite Ore",
   "block.sojourner.blueprint_inscriber": "Blueprint Inscriber",
+
+  "entity.sojourner.rover": "Rover",
+
+  "tooltip.sojourner.plate_blueprint": "§7Blueprint Type: Plate",
+  "tooltip.sojourner.rod_blueprint": "§7Blueprint Type: Rod",
 
   "itemGroup.sojourner": "Sojourner"
 }

@@ -1,0 +1,16 @@
+{
+  "type": "mekanism:purifying",
+  "chemical_input": {
+    "amount": 2,
+    "chemical": "mekanism:oxygen"
+  },
+  "item_input": {
+    "count": 1,
+    "tag": "forge:ores/bauxite"
+  },
+  "output": {
+    "count": 2,
+    "id": "sojourner:raw_aluminum"
+  },
+  "per_tick_usage": true
+}

@@ -5,7 +5,7 @@ import net.damqn4etobg.sojourner.block.ModBlocks;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.data.PackOutput;
 import net.minecraft.resources.ResourceLocation;
-import net.minecraft.world.level.block.*;
+import net.minecraft.world.level.block.Block;
 import net.neoforged.neoforge.client.model.generators.BlockStateProvider;
 import net.neoforged.neoforge.client.model.generators.ModelFile;
 import net.neoforged.neoforge.common.data.ExistingFileHelper;
@@ -19,6 +19,7 @@ public class ModBlockStateProvider extends BlockStateProvider {
     @Override
     protected void registerStatesAndModels() {
         blockWithItem(ModBlocks.BAUXITE_ORE);
+        blockWithItem(ModBlocks.DEEPSLATE_BAUXITE_ORE);
         simpleBlock(ModBlocks.BLUEPRINT_INSCRIBER.get(), new ModelFile.UncheckedModelFile(modLoc("block/blueprint_inscriber")));
     }
 

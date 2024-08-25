@@ -4,8 +4,7 @@
   "version": 1,
   "book_texture": "patchouli:textures/gui/book_blue.png",
   "model": "sojourner:item/sojourner_guide",
-  "custom_book_item": "sojourner:sojourner_guide",
-  "creative_tab": "sojourner:sojourner_tab",
+  "creative_tab": "sojourner_tab",
   "use_resource_pack": true,
   "dont_generate_book": true
 }
